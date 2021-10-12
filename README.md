@@ -1,4 +1,4 @@
-# NERC EDI Application and Hackathon from AirNode Nottingham Trent University and STFC DAFNI 
+# NERC EDI Application and Hackathon from AirNode, Nottingham Trent University and STFC DAFNI 
 
 This is an application for NERC EDI funding
 
