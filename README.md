@@ -5,18 +5,18 @@ This is an application for NERC EDI funding:
       The initiative shall install AQ sensors in a trial to monitor near many schools and Universities. It shall analyse the AQ measurements for irregular patterns and predict the next two days of AQ measurements. It shall present the results on a dashboard for local schools and citizens. User shall be able to replicate air quality analysis and create their owm analysis and measurements. This shall be done to increase EDI group involvement in environmental science and air quality analysis. There shall test that can be done to educate user and conduct analysis. This shall be in 10 levels from basic for primary school to advanced for University students. The shall test to try out mitigation strategies of no idling vehicles and other strategies with abilty to analyse the AQ measurement to determine success of the strategy. It shall be initially trialled in Nottingham which has one of the highest population of the ethnic monitories and divserse school population outside of London with aim to extend to other locations.
        The main aim being to highlight the interesting aspect, scope and benefits to individual or society of air quality analysis or more generally environmental science. The aim is to highlight this before pupil make crunch decisions to neglect becoming environmental scientist which causing the environmental sciences the second least EDI diverse industry. 
 
-![image]()
+![image](https://github.com/wegiangb/NERC_EDI/blob/main/Dashboard.png)
 
 # Aims
 
-•  Targeting an air quality analysis citizen science initiative at EDI groups 
-•  Targeting opportunity to allow EDI group to experience environment science and air quality methods before crunch decisions to neglect become environmental scientists. 
-•  Producing information on local air quality and the exposure of the population to air pollution;
-•  Raising awareness of a local air quality problem to attract the attention of local or national authorities;
-•  Complementing measurements taken by official air quality monitoring networks and helping improve air quality models; and/or
-•  Generating experience of the use of low-cost measuring devices and networks of such devices.
-•  Raising awareness to EDI groups of interesting aspects, scope and benefit to society or your own experience of air quality monitoring, analysis and therefor environmental science in general. 
-•  Giving opportunity to EDI groups to try environmental science methods from basic to advanced to increase potential for choosing to do further studies. 
+##•  Targeting an air quality analysis citizen science initiative at EDI groups 
+##•  Targeting opportunity to allow EDI group to experience environment science and air quality methods before crunch decisions to neglect become environmental scientists. 
+##•  Producing information on local air quality and the exposure of the population to air pollution;
+##•  Raising awareness of a local air quality problem to attract the attention of local or national authorities;
+##•  Complementing measurements taken by official air quality monitoring networks and helping improve air quality models; and/or
+##•  Generating experience of the use of low-cost measuring devices and networks of such devices.
+##•  Raising awareness to EDI groups of interesting aspects, scope and benefit to society or your own experience of air quality monitoring, analysis and therefor environmental science in general. 
+##•  Giving opportunity to EDI groups to try environmental science methods from basic to advanced to increase potential for choosing to do further studies. 
 
 It includes: 
 
