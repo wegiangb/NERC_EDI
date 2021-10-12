@@ -11,14 +11,14 @@ This is an application for NERC EDI funding
 
 # Aims
 
-##•  Targeting an air quality analysis citizen science initiative at EDI groups 
-##•  Targeting opportunity to allow EDI group to experience environment science and air quality methods before crunch decisions to neglect become environmental scientists. 
-##•  Producing information on local air quality and the exposure of the population to air pollution;
-##•  Raising awareness of a local air quality problem to attract the attention of local or national authorities;
-##•  Complementing measurements taken by official air quality monitoring networks and helping improve air quality models; and/or
-##•  Generating experience of the use of low-cost measuring devices and networks of such devices.
-##•  Raising awareness to EDI groups of interesting aspects, scope and benefit to society or your own experience of air quality monitoring, analysis and therefor environmental science in general. 
-##•  Giving opportunity to EDI groups to try environmental science methods from basic to advanced to increase potential for choosing to do further studies. 
+## •  Targeting an air quality analysis citizen science initiative at EDI groups 
+## •  Targeting opportunity to allow EDI group to experience environment science and air quality methods before crunch decisions to neglect become environmental scientists. 
+## •  Producing information on local air quality and the exposure of the population to air pollution;
+## •  Raising awareness of a local air quality problem to attract the attention of local or national authorities;
+## •  Complementing measurements taken by official air quality monitoring networks and helping improve air quality models; and/or
+## •  Generating experience of the use of low-cost measuring devices and networks of such devices.
+## •  Raising awareness to EDI groups of interesting aspects, scope and benefit to society or your own experience of air quality monitoring, analysis and therefor environmental science in general. 
+## •  Giving opportunity to EDI groups to try environmental science methods from basic to advanced to increase potential for choosing to do further studies. 
 
 It includes: 
 
