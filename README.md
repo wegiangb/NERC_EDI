@@ -15,7 +15,7 @@ This is an application for NERC EDI funding
 # Aims
 
 ## •  Targeting an air quality analysis citizen science initiative at EDI groups 
-## •  Targeting opportunity to allow EDI group to experience environment science and air quality methods before crunch decisions to neglect become environmental scientists. 
+## •  Targeting opportunity to allow EDI groups to experience environment science and air quality methods before crunch decisions to neglect become environmental scientists. 
 ## •  Producing information on local air quality and the exposure of the population to air pollution;
 ## •  Raising awareness of a local air quality problem to attract the attention of local or national authorities;
 ## •  Complementing measurements taken by official air quality monitoring networks and helping improve air quality models; and/or
@@ -51,9 +51,9 @@ To do after hackathon
 
 # WP 3 AQ network in Nottingham 
 
-### ·       Plans for AQ networks and school trial through NTU Outreach Team 
+## ·       Plans for AQ networks and school trial through NTU Outreach Team 
 
-### ·       Method to choose schools with EDI minorities 
+## ·       Method to choose schools with EDI minorities 
 
 To do after hackathon 
 
@@ -65,11 +65,11 @@ To do after hackathon
 
 # WP 4 Citizen Science Initiative and Dashboard that includes Emoji Air Quality Index Map
 
-### ·       Beginnings of the dashboard 
+## ·       Beginnings of the dashboard see http://airnode.co.uk/NERC_EDI/index.html
 
-### ·       Lesson plans for the citizen science initaitve    
+## ·       Lesson plans for the citizen science initaitve    
 
-### ·       Role out plan for the citizen science initiative 
+## ·       Role out plan for the citizen science initiative 
 
 To do after hackathon 
 
@@ -91,6 +91,8 @@ A little project to visualise air pollution levels around the world using emojis
 
 # WP 5 Integrating the software and datasets on DAFNI platform for scale-up and dissemination
 
+## ·        Programme of further processes for schools  
+
 To do after hackathon 
 
 ### ·       Apply AirNode validation on DAFNI platform to real-time AQ network
@@ -100,8 +102,6 @@ To do after hackathon
 ### ·       Conducting Post Surveys and evaluating increase in science capitol
 
 ### ·       Conducting further processes (parents evening, seminar, community presentations)
-
-![image](https://user-images.githubusercontent.com/2073738/137646360-c6c792fe-a501-4893-b300-21422856a17f.png)
 
 # Instruction to create Citizen Science Initiative  
 
