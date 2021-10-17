@@ -31,11 +31,11 @@ It includes begins of:
 
 To do after hackathon 
 
-### ·       Understanding optimisation of AQ Sensor network accuracies
+### ·       Task 1 Understanding optimisation of AQ Sensor network accuracies
 
-### ·       Understanding outdoor AQ impact on urban ventilation systems
+### ·       Task 2 Understanding outdoor AQ impact on urban ventilation systems
 
-### ·       Identify outdoor air pollution variables link to indoor AQ
+### ·       Task 3 Identify outdoor air pollution variables link to indoor AQ
 
 # WP 2 AirNode Software analysis of AQ measurements from AQ Sensor at Newcastle City Centre and Putney High Street 
 
@@ -43,11 +43,11 @@ To do after hackathon
 
 To do after hackathon 
 
-### ·       AirNode’s AQ validation software to existing UO AQ datasets focus on PM2.5 
+### ·       Task 1 AirNode’s AQ validation software to existing UO AQ datasets focus on PM2.5 
 
-### ·       Applying task 1 findings to Breathe London’s AQ dataset
+### ·       Task 2 Applying task 1 findings to Breathe London’s AQ dataset
 
-### ·       Analyse the output of UO AQ networks
+### ·       Task 3 Analyse the output of UO AQ networks
 
 # WP 3 AQ network in Nottingham 
 
@@ -57,31 +57,31 @@ To do after hackathon
 
 To do after hackathon 
 
-### ·       Set up new AQ network
+### ·       Task 1 Set up new AQ network
 
-### ·       Analyse and optimise the pilot network
+### ·       Task 2 Analyse and optimise the pilot network
 
-### ·       Analyse irregular patterns in the network and impact the indoor ventilation system.
+### ·       Task 3 Analyse irregular patterns in the network and impact the indoor ventilation system.
 
 # WP 4 Citizen Science Initiative and Dashboard that includes Emoji Air Quality Index Map
 
-## ·       Beginnings of the dashboard see http://airnode.co.uk/NERC_EDI/index.html
+## ·        Beginnings of the dashboard see http://airnode.co.uk/NERC_EDI/index.html
 
-## ·       Lesson plans for the citizen science initaitve    
+## ·        Lesson plans for the citizen science initaitve    
 
-## ·       Role out plan for the citizen science initiative 
+## ·        Role out plan for the citizen science initiative 
 
 To do after hackathon 
 
-### ·       Complete Citizen Scinece Dashboard to monitor measurements and present analysis
+### ·       Task 1 Complete Citizen Scinece Dashboard to monitor measurements and present analysis
 
-### ·       Tests or class lessons to analyse AQ measurements and pre surveys 
+### ·       Task 2 Tests or class lessons to analyse AQ measurements and pre surveys 
 
-### ·       Mitigating experiments to reduce air pollution levels around School 
+### ·       Task 3 Mitigating experiments to reduce air pollution levels around School 
 
-### ·       Measuring experiments to teach pupils about measuring and complete more AQ measurements 
+### ·       Task 4 Measuring experiments to teach pupils about measuring and complete more AQ measurements 
 
-### ·       Individual analysis for pupils, parents and teachers to interact with parents the main influencers of pupils 
+### ·       Task 5 Individual analysis for pupils, parents and teachers to interact with parents the main influencers of pupils 
 
 ## Dashboard Map 
 
@@ -95,13 +95,25 @@ A little project to visualise air pollution levels around the world using emojis
 
 To do after hackathon 
 
-### ·       Apply AirNode validation on DAFNI platform to real-time AQ network
+### ·       Task 1 Apply AirNode validation on DAFNI platform to real-time AQ network
 
-### ·       Report insights from optimising Low-cost AQ networks
+### ·       Task 2 Report insights from optimising Low-cost AQ networks
 
-### ·       Conducting Post Surveys and evaluating increase in science capitol
+### ·       Task 3 Conducting Post Surveys and evaluating increase in science capitol
 
-### ·       Conducting further processes (parents evening, seminar, community presentations)
+### ·       Task 4 Conducting further processes (parents evening, seminar, community presentations)
+
+# Application   
+
+## Case for Support
+
+### Hackathon report 
+
+### Work Programme 
+
+### Gantt Chart 
+
+## Objectives, Summary and Benefits 
 
 # Instruction to create Citizen Science Initiative  
 
