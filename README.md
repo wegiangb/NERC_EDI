@@ -20,13 +20,31 @@ This is an application for NERC EDI funding
 ## •  Raising awareness to EDI groups of interesting aspects, scope and benefit to society or your own experience of air quality monitoring, analysis and therefor environmental science in general. 
 ## •  Giving opportunity to EDI groups to try environmental science methods from basic to advanced to increase potential for choosing to do further studies. 
 
-It includes: 
+It includes begins of: 
 
-# 1 Literature Review of Air Quality networks 
+# WP 1 Literature Review of Air Quality networks 
 
-# 2 AirNode Software analysis of AQ measurements from AQ Sensor at Putney High Street 
+To do after hackathon 
 
-# 3 Dashboard that includes Emoji Air Quality Index Map
+### ·       Understanding optimisation of AQ Sensor network accuracies
+
+### ·       Understanding outdoor AQ impact on urban ventilation systems
+
+### ·       Identify outdoor air pollution variables link to indoor AQ
+
+# WP 2 AQ network in Nottingham 
+
+# WP 3 AirNode Software analysis of AQ measurements from AQ Sensor at Newcastle City Centre and Putney High Street 
+
+
+
+# WP 4 Citizen Science Initiative and Dashboard that includes Emoji Air Quality Index Map
+
+
+
+## Dashboard 
+
+## Dashboard Map 
 
 A little project to visualise air pollution levels around the world using emojis 😎
 
