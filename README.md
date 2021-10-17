@@ -27,6 +27,8 @@ It includes begins of:
 
 # WP 1 Literature Review of Air Quality networks 
 
+## · A literature review of Air quality sensors, AQ domain and usage of air quality measurements 
+
 To do after hackathon 
 
 ### ·       Understanding optimisation of AQ Sensor network accuracies
@@ -35,17 +37,51 @@ To do after hackathon
 
 ### ·       Identify outdoor air pollution variables link to indoor AQ
 
-# WP 2 AQ network in Nottingham 
+# WP 2 AirNode Software analysis of AQ measurements from AQ Sensor at Newcastle City Centre and Putney High Street 
 
-# WP 3 AirNode Software analysis of AQ measurements from AQ Sensor at Newcastle City Centre and Putney High Street 
+## · AirNode software applied to analyse AQ measurements at Newcastle City Centre and Putney High Street 
 
+To do after hackathon 
 
+### ·       AirNode’s AQ validation software to existing UO AQ datasets focus on PM2.5 
+
+### ·       Applying task 1 findings to Breathe London’s AQ dataset
+
+### ·       Analyse the output of UO AQ networks
+
+# WP 3 AQ network in Nottingham 
+
+### ·       Plans for AQ networks and school trial through NTU Outreach Team 
+
+### ·       Method to choose schools with EDI minorities 
+
+To do after hackathon 
+
+### ·       Set up new AQ network
+
+### ·       Analyse and optimise the pilot network
+
+### ·       Analyse irregular patterns in the network and impact the indoor ventilation system.
 
 # WP 4 Citizen Science Initiative and Dashboard that includes Emoji Air Quality Index Map
 
+### ·       Beginnings of the dashboard 
 
+### ·       Lesson plans for the citizen science initaitve    
 
-## Dashboard 
+### ·       Role out plan for the citizen science initiative 
+
+To do after hackathon 
+
+### ·       Complete Citizen Scinece Dashboard to monitor measurements and present analysis
+
+### ·       Tests or class lessons to analyse AQ measurements and pre surveys 
+
+### ·       Mitigating experiments to reduce air pollution levels around School 
+
+### ·       Measuring experiments to teach pupils about measuring and complete more AQ measurements 
+
+### ·       Individual analysis for pupils, parents and teachers to interact with parents the main influencers of pupils 
 
 ## Dashboard Map 
 
@@ -53,7 +89,21 @@ A little project to visualise air pollution levels around the world using emojis
 
 ![image](https://user-images.githubusercontent.com/18376481/80952244-4acff980-8df1-11ea-8c59-a19e11b37d95.png)
 
-# Instruction to create 
+# WP 5 Integrating the software and datasets on DAFNI platform for scale-up and dissemination
+
+To do after hackathon 
+
+### ·       Apply AirNode validation on DAFNI platform to real-time AQ network
+
+### ·       Report insights from optimising Low-cost AQ networks
+
+### ·       Conducting Post Surveys and evaluating increase in science capitol
+
+### ·       Conducting further processes (parents evening, seminar, community presentations)
+
+![image](https://user-images.githubusercontent.com/2073738/137646360-c6c792fe-a501-4893-b300-21422856a17f.png)
+
+# Instruction to create Citizen Science Initiative  
 
 ## 1 Git clone this repository 
 
