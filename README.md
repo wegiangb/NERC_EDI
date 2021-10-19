@@ -63,6 +63,8 @@ To do after hackathon
 
 ### ·       Task 3 Analyse the output of UO AQ networks
 
+![image](https://github.com/wegiangb/NERC_EDI/blob/main/WP2_AirNode's_AQ_Analysis/Analysis_PutneyHighStreetSensors_AirNode_NTU_WP2_Results.png)
+
 # WP 3 AQ network in Nottingham 
 
 Done in the Hackathon
