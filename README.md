@@ -41,6 +41,16 @@ To do after hackathon
 
 ## · AirNode software applied to analyse AQ measurements at Newcastle City Centre and Putney High Street 
 
+## · A full demo of analysis of Putney High Street sensor can be seen at http://airnode.co.uk/NERC_EDI/Dashboard_Analysis_Levels/QC_Result/Dashboard_PutneyHighStreet_Source_Analysis_Levels_AirNode.html
+
+### It identifies: 
+
+#### Irregular Patterns 
+
+#### Anomalies 
+
+#### Seasonality and other trends 
+
 To do after hackathon 
 
 ### ·       Task 1 AirNode’s AQ validation software to existing UO AQ datasets focus on PM2.5 
