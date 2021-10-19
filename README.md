@@ -27,6 +27,8 @@ It includes begins of:
 
 # WP 1 Literature Review of Air Quality networks 
 
+Done in the Hackathon
+
 ## · A literature review of Air quality sensors, AQ domain and usage of air quality measurements 
 
 To do after hackathon 
@@ -38,6 +40,8 @@ To do after hackathon
 ### ·       Task 3 Identify outdoor air pollution variables link to indoor AQ
 
 # WP 2 AirNode Software analysis of AQ measurements from AQ Sensor at Newcastle City Centre and Putney High Street 
+
+Done in the Hackathon
 
 ## · AirNode software applied to analyse AQ measurements at Newcastle City Centre and Putney High Street 
 
@@ -61,9 +65,13 @@ To do after hackathon
 
 # WP 3 AQ network in Nottingham 
 
-## ·       Plans for AQ networks and school trial through NTU Outreach Team 
+Done in the Hackathon
 
-## ·       Method to choose schools with EDI minorities 
+## ·        Overview and Plans for AQ networks and school trial through NTU Outreach Team 
+
+## ·        Scope of the AQ network 
+
+## ·        AQ network sensors selected and location in network 
 
 To do after hackathon 
 
@@ -74,6 +82,10 @@ To do after hackathon
 ### ·       Task 3 Analyse irregular patterns in the network and impact the indoor ventilation system.
 
 # WP 4 Citizen Science Initiative and Dashboard that includes Emoji Air Quality Index Map
+
+Done in the Hackathon
+
+## ·        Template Method to target school with groups underrepresented in environmental science
 
 ## ·        Beginnings of the dashboard see http://airnode.co.uk/NERC_EDI/index.html
 
@@ -101,7 +113,9 @@ A little project to visualise air pollution levels around the world using emojis
 
 # WP 5 Integrating the software and datasets on DAFNI platform for scale-up and dissemination
 
-## ·        Programme of further processes for schools  
+Done in the Hackathon
+
+## ·        Beginings of the Programme of further processes for schools  
 
 To do after hackathon 
 
