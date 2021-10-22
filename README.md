@@ -12,6 +12,20 @@ This is an application for NERC EDI funding
 
 ![image](https://github.com/wegiangb/NERC_EDI/blob/main/Dashboard.png)
 
+# Output 
+
+## Website
+
+https://making-sensor-sense.webflow.io/
+
+## Demo of the citizen science dashboard
+
+http://airnode.co.uk/NERC_EDI/index.html
+
+## AirNode Analysis of use cases 
+
+http://airnode.co.uk/NERC_EDI/Dashboard_Analysis_Levels/QC_Result/Dashboard_PutneyHighStreet_Source_Analysis_Levels_AirNode.html
+
 # Aims
 
 ## •  Targeting an air quality analysis citizen science initiative at EDI groups 
