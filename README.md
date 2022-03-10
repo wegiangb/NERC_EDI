@@ -2,7 +2,7 @@
 
 ## AIR POLLUTION AWARENESS FOR EQUALITY DIVERSITY AND INCLUSIVE (EDI): MAKE SENSE OF SENSOR THROUGH CITIZEN SCIENCE from AirNode, Nottingham Trent University, Northampton Town Council and STFC DAFNI 
 
-This is an application for NERC EDI funding
+
 
       The initiative shall install AQ sensors in a trial to monitor near many schools and Universities. It shall analyse the AQ measurements for irregular patterns and predict the next two days of AQ measurements. It shall present the results on a dashboard for local schools and citizens. 
       
