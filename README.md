@@ -1,4 +1,4 @@
-# NERC EDI Application and Hackathon from AirNode, Nottingham Trent University and STFC DAFNI 
+# AIR POLLUTION AWARENESS FOR EQUALITY DIVERSITY AND INCLUSIVE (EDI): MAKE SENSE OF SENSOR THROUGH CITIZEN SCIENCE from AirNode, Nottingham Trent University, Northampton Town Council and STFC DAFNI 
 
 This is an application for NERC EDI funding
 
@@ -13,6 +13,8 @@ This is an application for NERC EDI funding
 ![image](https://github.com/wegiangb/NERC_EDI/blob/main/Dashboard.png)
 
 # Output 
+
+## Gantt Chart
 
 ## Website
 
@@ -41,21 +43,21 @@ It includes begins of:
 
 # WP 1 Literature Review of Air Quality networks 
 
-Done in the Hackathon
+Completed 
 
 ## · A literature review of Air quality sensors, AQ domain and usage of air quality measurements 
 
-To do after hackathon 
+To do 
 
 ### ·       Task 1 Understanding optimisation of AQ Sensor network accuracies
 
 ### ·       Task 2 Understanding outdoor AQ impact on urban ventilation systems
 
-### ·       Task 3 Identify outdoor air pollution variables link to indoor AQ
+### ·       Task 3 Preparing the Likert pre-participants survey based on the citizen science approach
 
-# WP 2 AirNode Software analysis of AQ measurements from AQ Sensor at Newcastle City Centre and Putney High Street 
+# WP 2 AirNode Software validation with existing datasets and updated from existing outcomes of tasks 
 
-Done in the Hackathon
+Completed 
 
 ## · AirNode software applied to analyse AQ measurements at Newcastle City Centre and Putney High Street 
 
@@ -69,19 +71,19 @@ Done in the Hackathon
 
 #### Seasonality and other trends 
 
-To do after hackathon 
+To do 
 
-### ·       Task 1 AirNode’s AQ validation software to existing UO AQ datasets focus on PM2.5 
+### ·       Task 1 AirNode’s AQ validation software to existing AQ datasets 
 
-### ·       Task 2 Applying task 1 findings to Breathe London’s AQ dataset
+### ·       Task 2 Applying WP1 findings to AQ dataset analysis
 
-### ·       Task 3 Analyse the output of UO AQ networks
+### ·       Task 3 Analysis of the output of AQ networks to link with the citizen science dashboard
 
 ![image](https://github.com/wegiangb/NERC_EDI/blob/main/WP2_AirNode's_AQ_Analysis/Analysis_PutneyHighStreetSensors_AirNode_NTU_WP2_Results.png)
 
-# WP 3 AQ network in Nottingham 
+# WP 3 Implementing the findings from WP1 and WP2 to the new AQ network for the pilot school tasks
 
-Done in the Hackathon
+Completed
 
 ## ·        Overview and Plans for AQ networks and school trial through NTU Outreach Team 
 
@@ -89,37 +91,39 @@ Done in the Hackathon
 
 ## ·        AQ network sensors selected and location in network 
 
-To do after hackathon 
+To do 
 
-### ·       Task 1 Set up new AQ network
+
+• Analyse and optimise the pilot network
+• 
+
+### ·       Task 1 Set up new pilot AQ network and data collection
 
 ### ·       Task 2 Analyse and optimise the pilot network
 
-### ·       Task 3 Analyse irregular patterns in the network and impact the indoor ventilation system.
+### ·       Task 3 Analyse irregular patterns in the network and impact the indoor ventilation system
 
 # WP 4 Citizen Science Initiative and Dashboard that includes Emoji Air Quality Index Map
 
-Done in the Hackathon
+Completed 
 
 ## ·        Template Method to target school with groups underrepresented in environmental science
 
 ## ·        Beginnings of the dashboard see http://airnode.co.uk/NERC_EDI/index.html
 
-## ·        Lesson plans for the citizen science initaitve    
+## ·        General Lesson plans for the citizen science initaitve    
 
 ## ·        Role out plan for the citizen science initiative 
 
-To do after hackathon 
+To do 
 
-### ·       Task 1 Complete Citizen Scinece Dashboard to monitor measurements and present analysis
+### ·       Task 1 Dashboard development based on the WP2-3
 
-### ·       Task 2 Tests or class lessons to analyse AQ measurements and pre surveys 
+### ·       Task 2 The Pre participants evaluation survey with an advisory board, EDI group and citizen science experts 
 
-### ·       Task 3 Mitigating experiments to reduce air pollution levels around School 
+### ·       Task 3 Lessons and Tests for measuring and analysis with school
 
-### ·       Task 4 Measuring experiments to teach pupils about measuring and complete more AQ measurements 
-
-### ·       Task 5 Individual analysis for pupils, parents and teachers to interact with parents the main influencers of pupils 
+### ·       Task 4 Student Presentations and school dissemination
 
 ## Dashboard Map 
 
@@ -129,25 +133,27 @@ A little project to visualise air pollution levels around the world using emojis
 
 # WP 5 Integrating the software and datasets on DAFNI platform for scale-up and dissemination
 
-Done in the Hackathon
+Completed 
 
 ## ·        Beginings of the Programme of further processes for schools  
 
-To do after hackathon 
+To do
 
 ### ·       Task 1 Apply AirNode validation on DAFNI platform to real-time AQ network
 
 ### ·       Task 2 Report insights from optimising Low-cost AQ networks
 
-### ·       Task 3 Conducting Post Surveys and evaluating increase in science capitol
+### ·       Task 3 The post-evaluation survey with all stakeholders
 
-### ·       Task 4 Conducting further processes (parents evening, seminar, community presentations)
+### ·       Task 4 Dissemination with all stakeholders
+
+### ·       Task 5 Report and publication writing
 
 # Application   
 
 ## Case for Support
 
-### Hackathon report 
+### Application 
 
 ### Work Programme 
 
