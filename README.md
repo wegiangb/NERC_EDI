@@ -18,6 +18,10 @@
 
 ## Gantt Chart
 
+PDF https://github.com/wegiangb/NERC_EDI/blob/main/SAQN_Make%20sense%20of%20Sensor%20through%20Citizen%20Science_GanttChart.pdf
+
+Excel 
+
 ## Website
 
 https://making-sensor-sense.webflow.io/
